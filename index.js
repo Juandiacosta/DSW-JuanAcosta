@@ -1,0 +1,1 @@
+alert("Bienvenido al mejor sitio web del mundo")
